@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "axios": "^1.19.0"
+  }
+}
